@@ -1,1 +1,1 @@
-# bloomr-android-app
+# bloomr-app
